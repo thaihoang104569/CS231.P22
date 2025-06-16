@@ -49,5 +49,6 @@
 
 ### 3. Hướng dẫn chạy
 1. Chuẩn bị dữ liệu với cấu trúc phù hợp, được viết chi tiết trong báo cáo.
+2. Cài đặt python
 3. Chạy huấn luyện SVM: `hog-svm.ipynb`
 4. Chạy huấn luyện EfficientNetB0: `efficientnetb0.ipynb`

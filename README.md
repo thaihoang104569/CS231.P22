@@ -21,7 +21,7 @@
   
 ## ĐỒ ÁN CUỐI KÌ - Phân loại lỗi bề mặt ốc vít
 
-### 1.Giới thiệu đồ án
+### 1. Giới thiệu đồ án
 Đồ án **CS231: Nhập môn Thị giác máy tính** phát triển hệ thống tự động phân loại lỗi bề mặt ốc vít.
 #### Mục tiêu
 - Tự động phân loại ốc vít theo các lớp lỗi bề mặt ốc vít dựa trên ảnh chụp.
@@ -43,11 +43,11 @@
 - Triển khai mô hình EfficientNet-B0: [efficientnetb0.ipynb](https://github.com/thaihoang104569/CS231.P22/blob/main/Final%20Project/Code/efficientnetb0.ipynb).
 - Báo cáo chi tiết của đồ án: [Report.pdf](https://github.com/thaihoang104569/CS231.P22/blob/main/Final%20Project/Report.pdf).
 
-### 2.Yêu cầu cài đặt
+### 2. Yêu cầu cài đặt
 - Python 3.7+
 - Thư viện: `tensorflow`, `scikit-learn`, `scikit-image`, `numpy`, `opencv-python`, `matplotlib`, `seaborn`, `tqdm`, `joblib`
 
-### 3.Hướng dẫn chạy
+### 3. Hướng dẫn chạy
 1. Chuẩn bị dữ liệu với cấu trúc phù hợp, được viết chi tiết trong báo cáo.
 3. Chạy huấn luyện SVM: `hog-svm.ipynb`
 4. Chạy huấn luyện EfficientNetB0: `efficientnetb0.ipynb`

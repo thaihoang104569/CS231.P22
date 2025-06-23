@@ -17,7 +17,7 @@
 * **Tên môn học:** Nhập môn thị giác máy tính
 * **Mã môn học:** CS231
 * **Mã lớp:** CS231.P22
-* **Năm học:** HK1 (2024 - 2025)
+* **Năm học:** HK2 (2024 - 2025)
   
 ## ĐỒ ÁN CUỐI KÌ - Phân loại lỗi bề mặt ốc vít
 
